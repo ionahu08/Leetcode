@@ -1,4 +1,4 @@
-# editted by Yiyao 
+# editted by Shuhua 
 import random
 
 # Generate a random list of 10 numbers between 1 and 100
